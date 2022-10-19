@@ -1,0 +1,38 @@
+.search_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+    margin-left: 200px;
+    margin-right:200px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.rent-details{
+    background-color:white;
+    border-radius: 10px;
+    margin-right: 22px;
+}
+.rent-title{
+    font-size: 13px;
+    color: gray;
+    padding:5px;
+    height: 30px;
+    width:150px;
+}
+.details{
+    color: black;
+    font-size: 13px;
+    font-weight: 600;
+    padding:5px;
+}
+.Button{
+    background-color: rgb(106, 106, 244);
+    color: white;
+    border: none;
+    width:100px;
+    height:30px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}

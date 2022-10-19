@@ -1,0 +1,95 @@
+.templateContainer{
+    margin: 5px;
+}
+.heading-search{
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
+    margin-right: 40px;
+}
+.searchInput_Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    outline: none;
+}
+.container-heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    padding:5px;
+}
+.template_Container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+    margin-left: 200px;
+    margin-right:200px;
+    margin-bottom: 200px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 110vh;
+}
+.rent-details{
+    background-color:white;
+    border-radius: 10px;
+    margin-right: 22px;
+    margin-bottom: 40px;
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.img-rent{
+    height: 180px;
+    width:300px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.rent-month{
+    color: rgb(38, 38, 241);
+    font-size: 20px;
+    padding:5px;
+    font-weight: 800;
+}
+.Month{
+    font-size: 15px;
+    color: gray;
+    padding:5px;
+}
+.name-house{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    padding:5px;
+}
+.location{
+    color: gray;
+    font-size: 12px;
+    font-weight: 50;
+    padding:5px;
+}
+.bath-name{
+    color: gray;
+    font-size: 12px;
+    padding:0 auto;
+}
+.info-details{
+    background-color: white;
+    border-width: 1px;
+    border-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:10px;
+}

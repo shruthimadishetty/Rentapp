@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"location",
+        "details":"NewYork,USA"
+    },
+    {
+        "id":2,
+        "title":"When",
+        "details":"Select Move-in Date"
+    },
+    {
+        "id":3,
+        "title":"price",
+        "details":"$500-$2,500"
+    },
+    {
+        "id":4,
+        "title":"Property Type",
+        "details":"House"
+    }
+]

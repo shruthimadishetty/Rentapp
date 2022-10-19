@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "image":"https://nimvo.com/wp-content/uploads/2018/11/single-family-detached-home.jpg",
+        "rentmonth":"$2,095",
+        "title":"Palm Harbor",
+        "location":"2699 Green Valley,Highland Lake,FL"
+    },
+    {
+        "id":2,
+        "image":"https://i.insider.com/59d523ba2ff63064008b4ab5?width=1000&format=jpeg&auto=webp",
+        "rentmonth":"$2,700",
+        "title":"Beverly springField",
+        "location":"281 Lake servilla,Palm Harbor,TX"
+    },
+    {
+        "id":3,
+        "image":"https://www.e-architect.com/wp-content/uploads/2022/09/castle-hill-residence-austin-texas-d040922-j11.jpg",
+        "rentmonth":"$4,550",
+        "title":"Faulkner Ave",
+        "location":"909 woodland st.Michigan,IN"
+    },
+    {
+        "id":4,
+        "image":"https://www.shutterstock.com/image-photo/custom-built-luxury-house-nicely-600w-204767935.jpg",
+        "rentmonth":"$3,700",
+        "title":"Sunshine Vihaan",
+        "location":"203 Mount vernon"
+    },
+    {
+        "id":5,
+        "image":"https://www.shutterstock.com/image-photo/nice-comfortable-neighborhood-some-homes-600w-749534653.jpg",
+        "rentmonth":"$2,900",
+        "title":"Merlion Galaxia",
+        "location":"404 Peekskill"
+    },
+    {
+        "id":6,
+        "image":"https://www.shutterstock.com/image-photo/real-estate-exterior-front-house-600w-1702012048.jpg",
+        "rentmonth":"$3,200",
+        "title":"Shashra",
+        "location":"500 White Plains"
+    }
+]
